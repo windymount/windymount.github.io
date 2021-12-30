@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a M.S. student in the Department of [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) at UC San Diego. Currently, I work with [Prof. Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/) as a research intern in [SVCL](http://www.svcl.ucsd.edu/).My research interest is mainly in machine learning theory and computer vision. My CV could be found [here](files/cv.pdf). 
+Hi! I'm a M.S. student in the Department of [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) at UC San Diego. Currently, I work with [Prof. Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/) as a research intern in [SVCL](http://www.svcl.ucsd.edu/). My research interest is mainly in machine learning theory and computer vision. My CV could be found [here](files/cv.pdf). 
 
 ## Education
 M.S. in the Department of [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) at [UC San Diego](https://ucsd.edu/).  \[Sep 2021 - Current\]

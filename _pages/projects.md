@@ -7,7 +7,7 @@ redirect_from:
   - /project
 ---
 ## [Provably robust conformal prediction with Improved efficiency](https://lilywenglab.github.io/Provably-Robust-Conformal-Prediction/)
-<span style="font-size:13px"> To appear on *The Twelfth International Conference on Learning Representations (ICLR24)* </span>
+<span style="font-size:13px margin-top=13px margin-bottom=13px"> To appear on *The Twelfth International Conference on Learning Representations (ICLR24)* </span>
 
 Conformal prediction is a method that provides prediction sets with guaranteed coverage. However, this guarantee fails at adversarial attacks. In this project, we propose a novel framework called RSCP+ which provides guaranteed robustness against adversarial examples. Besides, we design two methods to boost the efficiency of conformal prediction (reduce the size of prediction sets). Our methods achieve 4.36x, 5.46x and 16.9x efficiency boost on CIFAR10, CIFAR100 and ImageNet, respectively.
 ## Failure probability estimation via Bayesian neural networks

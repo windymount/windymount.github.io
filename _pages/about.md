@@ -24,7 +24,7 @@ Hi! I'm a second year Ph.D. student in the Department of [Computer Science and E
 
 **VLG-CBM: Training Concept Bottleneck Models with Vision-Language Guidance.**<br>
 
-Divyansh Srivastava*, **Ge Yan***, Tsui-Wei Weng, NeurIPS 2024.
+Divyansh Srivastava<sup>*</sup>, **Ge Yan**<sup>*</sup>, Tsui-Wei Weng, NeurIPS 2024.
 
 ## Internship
 Applied Scientist Intern, Amazon, San Diego. \[Jun. 2024 - Sep. 2024]

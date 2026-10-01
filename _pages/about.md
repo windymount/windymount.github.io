@@ -25,6 +25,12 @@ Hi! I'm a fourth year Ph.D. student in the Department of [Computer Science and E
 **ReflCtrl: Controlling LLM Reflection Efficiently via Representation Engineering**<br>
 ***Ge Yan**, Chung-En Sun, Linbo Liu, Tsui-Wei (Lily) Weng*, COLM 2026. Also NeurIPS 2025 MI Workshop (Spotlight). [[Project Page]](https://lilywenglab.github.io/ReflCtrl/) [[Code]](https://github.com/Trustworthy-ML-Lab/ReflCtrl)
 
+**Provably Robust Conformal Prediction with Improved Efficiency**<br>
+***Ge Yan**, Yaniv Romano, Tsui-Wei (Lily) Weng*, ICLR 2024.
+
+**VLG-CBM: Training Concept Bottleneck Models with Vision-Language Guidance**<br>
+*Divyansh Srivastava<sup>*</sup>, **Ge Yan**<sup>*</sup>, Tsui-Wei (Lily) Weng*, NeurIPS 2024. [[Project Page]](https://lilywenglab.github.io/VLG-CBM/) [[Code]](https://github.com/Trustworthy-ML-Lab/VLG-CBM)
+
 **Steer2Edit: From Activation Steering to Component-Level Editing**<br>
 *Chung-En Sun, **Ge Yan**, Zimo Wang, Tsui-Wei (Lily) Weng*, NeurIPS 2026.
 
@@ -51,12 +57,6 @@ Hi! I'm a fourth year Ph.D. student in the Department of [Computer Science and E
 
 **Interpretable Generative Models through Post-hoc Concept Bottlenecks**<br>
 *Akshay Kulkarni, **Ge Yan**, Chung-En Sun, Tuomas Oikarinen, Tsui-Wei (Lily) Weng*, CVPR 2025.
-
-**VLG-CBM: Training Concept Bottleneck Models with Vision-Language Guidance**<br>
-*Divyansh Srivastava<sup>*</sup>, **Ge Yan**<sup>*</sup>, Tsui-Wei (Lily) Weng*, NeurIPS 2024. [[Project Page]](https://lilywenglab.github.io/VLG-CBM/) [[Code]](https://github.com/Trustworthy-ML-Lab/VLG-CBM)
-
-**Provably Robust Conformal Prediction with Improved Efficiency**<br>
-***Ge Yan**, Yaniv Romano, Tsui-Wei (Lily) Weng*, ICLR 2024.
 
 ### Workshop Papers and Preprints
 
